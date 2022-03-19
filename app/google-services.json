@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952036241445",
+    "firebase_url": "https://otopediadb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "otopediadb",
+    "storage_bucket": "otopediadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952036241445:android:8d2641e934e3b583f48fcc",
+        "android_client_info": {
+          "package_name": "com.example.otopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952036241445-9d4i490t71hcugbuk8a01em4jvpna3bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvfLAhm3r2Oqdc6qeQ03ZI7b4vVA0rsOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952036241445-9d4i490t71hcugbuk8a01em4jvpna3bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
